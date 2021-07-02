@@ -1,7 +1,7 @@
-# Blue Sky Energy
-# Lead Manager
+# ßrazen 5tudios
 # CRM Dialer API Integration
-# Woody Hooten, 2020
+# Maestro frymatic
+# Woody Hooten, 2020 
 
 from lead_scripts import *
 
