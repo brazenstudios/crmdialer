@@ -1,6 +1,6 @@
-# Blue Sky Energy
-# Lead Manager
+# ßrazen 5tudios
 # CRM Dialer API Integration
+# Maestro frymatic
 # Woody Hooten, 2020
 
 from crmdialerbot import *

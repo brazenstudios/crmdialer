@@ -1,5 +1,6 @@
-# Blue Sky Energy
+# ßrazen 5tudios
 # CRM Dialer API Integration
+# Maestro frymatic
 # Woody Hooten, 2020
 
 import requests
